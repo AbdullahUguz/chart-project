@@ -1,11 +1,10 @@
 # ChartProject
-Yapmış olduğumuz yazılım Main paketinin içindeki main sınıfından 
-çalıştırılır.
+Projenin amacı vetilen xml ve txt uzantılı dosyayadaki verileri parse ederek yıllara göre çubuk veya çizgi grafiği oluşturmaktadır.
 
-Karşımıza gelen pencereden öncelikle Upload Data butonuna basarak
+Projeyi çalıştırdıktan sonra karşımıza gelen pencereden öncelikle Upload Data butonuna basarak
 bilgisayarımızdan txt veya xml dosyası seçmemiz gerekiyor.
 
-Dosyayı seçtikten sonra pencerenin en üst kısmında dosyanın yolu gözükmektedir.Eğer yanlış bir dosya seçilmiş ise tekrar Upload Data
+Dosyayı seçtikten sonra pencerenin en üst kısmında dosyanın yolu gözükmektedir. Eğer yanlış bir dosya seçilmiş ise tekrar Upload Data
 butonuna basarak dosyanızı güncelleyebilirsiniz.
 
 Dosya seçme işi bittikten sonra dosyayı göstermek istediğiniz grafiğin butonuna basınız.
